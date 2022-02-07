@@ -1,0 +1,15 @@
+<!DOCTYPE html >
+<html>
+	<head >
+		<h1> Random websites </h1>
+	</head >
+	<body >
+		<a href="https://www.modules.napier.ac.uk/Module.aspx?ID=set08101">Web tech</a>
+		<p> is a module that is run in the
+		<a href="https://www.napier.ac.uk/about-us/our-schools/school-of-computing">School of Computing</a>
+		</p>
+		<p> at
+		<a href="https://www.napier.ac.uk/">Edinburgh Napier University</a>
+		</p>
+	</body>
+</html>
